@@ -16,6 +16,7 @@
         "difficulty": "easy",
         "notes": "Go to \"Profile > Delete My Account\" and select why you are deleting your account.",
         "notes_pt_br": "Vá para \"Profile > Delete My Account\" e selecione um motivo pelo qual você está excluindo sua conta.",
+        "notes_cat": "Anar a \"Profile > Delete My Account\" i seleccionar el motiu pel qual es vol eliminar el compte.",
         "domains": [
             "000webhost.com",
             "000webhostapp.com"
@@ -27,6 +28,7 @@
         "url": "https://my.1password.com/profile",
         "difficulty": "easy",
         "notes": "Login to your account, go to profile, click 'Permanently Delete Account'. Confirm by entering 'I am sure' and click 'Delete Account'.",
+        "notes_cat": "Iniciar sessió, anar al perfil, fer clic a 'Permanently Delete Account'. Confirmar i clicar 'Delete Account'.", 
         "domains": [
             "1password.com"
         ]
@@ -37,6 +39,7 @@
         "url": "https://280daily.com/settings/delete",
         "difficulty": "easy",
         "notes": "Enter your account password and click on 'DELETE ACCOUNT'.",
+        "notes_cat": "Entrar al compte i clicar a 'DELETE ACCOUNT'.",
         "domains": [
             "280daily.com"
         ]
@@ -56,6 +59,7 @@
         "url": "https://500px.com/settings",
         "difficulty": "hard",
         "notes": "On Account Settings, under \"Please choose your issue below\", select \"Delete Account\", fill the form and submit.",
+        "notes_cat": "A \"Account Settings\", sota \"Please choose your issue below\", seleccionar \"Delete Account\", omplir el formulari i enviar.", 
         "domains": [
             "500px.com"
         ]
@@ -66,6 +70,7 @@
         "url": "https://help.7digital.com/hc/en-gb/requests/new",
         "difficulty": "hard",
         "notes": "Email customer service using their web contact form and ask them to delete your account.",
+        "notes_cat": "Enviar correu al servei d'atenció al client fent servir el formulari de contacte del web, demanant que s'elimini el vostre compte.",  
         "domains": [
             "7digital.com"
         ]
@@ -79,7 +84,7 @@
         "notes_fr": "Connectez vous, allez dans les parametres, cilquez sur supprimer mon compte. Confirmez en cliquant sur je supprimer mon compte. Et confirmez encore avec supprimer mon compte.",
         "notes_it": "Logga il tuo account, vai su parameters, clicca Delete my account. Conferma cliccando I want to delete my account. E ancora cliccando Delete my 9GAG account.",
         "notes_pt_br": "Faça login em sua conta, vá em parâmetros, clique em Delete my account. Confirme clicando em I want to delete my account. E novamente em Delete my 9GAG account.",
-        "notes_cat": "Entra al teu compte, ves a paràmetres, fés clic a 'Delete my account'. Confirma clicant a 'I want to delete my account'. I novament a 'Delete my 9GAG account'.",
+        "notes_cat": "Entrar al compte, anar a paràmetres, fer clic a 'Delete my account'. Confirmar clicant a 'I want to delete my account'. I novament a 'Delete my 9GAG account'.",
         "notes_es": "Entra en tu cuenta, ve a parámetros, haz clic en 'Delete my account'. Confirma haciendo clic en 'I want to delete my account'. I de nuevo en 'Delete my 9GAG account'.",
         "notes_pl": "Zaloguj się na swoje konto, przejdź do ustawień, kliknij Delete my account. Potwierdź klikając I want to delete my account. Następnie wprowadź swoje hasło i kliknij Delete my 9GAG account.",
         "domains": [
@@ -92,6 +97,7 @@
         "url": "https://www.abebooks.com/customer-support/",
         "difficulty": "hard",
         "notes": "Select 'Something else' and then 'Close my account' and fill out the e-mail form.",
+        "notes_cat": "Seleccionar 'Something else', fer clic a 'Close my account', i omplir el formulari que apareix.",
         "domains": [
             "abebooks.com"
         ]
@@ -130,6 +136,7 @@
         "difficulty": "easy",
         "notes": "In your account settings choose 'Remove my account' at the bottom.",
         "notes_de": "Wähle 'Remove my account' in den Account-Einstellungen.",
+        "notes_cat": "Anar a 'Account Settings' i fer clic a 'Remove my account' abaix de tot.",
         "domains": [
             "splittable.co",
             "helloacasa.com"
@@ -141,6 +148,7 @@
         "url": "https://www.acorns.com/support/contact/",
         "difficulty": "impossible",
         "notes": "You have to contact customer support to deactivate your account. Can be reactivated again.",
+        "notes_cat": "Contactar amb el servei de suport (Costumer Support) per desactivar la teva compte. Es pot tornar a reactivar.",
         "domains": [
             "acorns.com"
         ]
@@ -152,6 +160,7 @@
         "difficulty": "hard",
         "notes": "Contact the customer support using the contact form and request the deletion of your account.",
         "notes_pt_br": "Entre em contato com o suporte ao cliente usando o formulário de contato e solicite a exclusão da sua conta.",
+        "notes_cat": "Contactar amb el servei de suport, fent servir el formulari de contacte, demanant que s'elimini el vostre compte.",
         "domains": [
             "adf.ly"
         ]
@@ -171,6 +180,7 @@
         "url": "https://www.airbnb.com/help/article/240/how-do-i-cancel-my-account",
         "difficulty": "hard",
         "notes": "Your account can be deleted <a href=\"https://www.airbnb.com/help/contact_us\">by contacting support</a>, although some pertinent information may be retained as legally required.",
+        "notes_cat": "El compte pot ser eliminat <a href=\"https://www.airbnb.com/help/contact_us\">contactant amb el suport tècnic</a>, no obstant això, la plataforma pot retenir informació per requeriment legal."
         "domains": [
             "airbnb.ae",
             "airbnb.at",
@@ -235,6 +245,7 @@
         "url": "https://www.airdroid.com/en/deleteAccount.html",
         "difficulty": "easy",
         "notes": "Go to the Account Info page, Click the Delete Account button to delete your AirDroid account.",
+        "notes_cat": "Anar a la pàgina 'Account Info' i fer click a 'Delete Account'.",
         "domains": [
             "airdroid.com"
         ]
@@ -246,6 +257,7 @@
         "difficulty": "hard",
         "notes": "Despite what it says in their FAQ there is actually no automatic way to delete your account. But they do see to be happy to do it if you ask them - you can contact them via <a href=\"https://www.alibaba.com/help/contact-us.html\">their Contact Us page</a>.",
         "notes_fr": "Malgré la suggestion du FAQ, il n'y a pas au fait de façon automatique de supprimer votre compte. Cela dit, ils me semblent contents de le faire si vous le demandez - vous pouvez les contactez via <a href=\"https://www.alibaba.com/help/contact-us.html\">https://www.alibaba.com/help/contact-us.html</a>.",
+        "notes_cat": "Malgrat el que diu a les seves FAQ, no hi ha disponible cap procediment automàtic per eliminar un compte. Tot i això, acostumen a eliminar els comptes si es contacta per correu - fer una petició per eliminar el compte a través de la <a href=\"https://www.alibaba.com/help/contact-us.html\">Pàgina de Contacte</a>.",
         "domains": [
             "alibaba.com"
         ]
@@ -256,6 +268,7 @@
         "url": "https://accounts.aliexpress.com/user/organization/deactive_account.htm",
         "difficulty": "easy",
         "notes": "To delete your account, go to the \"My AliExpress\" page, click on \"Account Settings\"->\"Edit Settings\" then \"Edit Member Profile\" and click on \"Deactivate Account\" button. On the deactivation page, there is an option \"Release my account at the same time\", click it and confirm so that data will be permanently deleted along with your account.",
+        "notes_cat": "Anar a 'My AliExpress', clicar a 'Account Settings' -> 'Edit Settings' -> 'Edit Member Profile' i fer clic a 'Desactivate Account'. Per eliminar tot el teu registre de dades de la plataforma, clicar l'opció 'Release my account at the same time', que es troba a la pàgina de desactivació.
         "domains": [
             "aliexpress.com"
         ]
@@ -323,6 +336,7 @@
         "notes": "You must login before visiting the link.",
         "notes_fr": "Il faut que vous vous connectez avant d'utiliser le lien.",
         "notes_pl": "Musisz się zalogować przed wejściem w link.",
+        "notes_cat": "Cal iniciar sessió abans de visitar l'enllaç.",
         "domains": [
             "amazon.com"
         ]
@@ -334,6 +348,7 @@
         "difficulty": "hard",
         "notes": "Contact the customer support using the contact form and request the deletion of your account.",
         "notes_pt_br": "Entre em contato com o suporte ao cliente usando o formulário de contato e solicite a exclusão da sua conta.",
+        "notes_cat": "Contactar amb el suport tècnic fent servir el formulari de contacte demanant que s'elimini el vostre compte.",
         "domains": [
             "androidfilehost.com"
         ]
@@ -344,6 +359,7 @@
         "url": "https://angel.co/settings",
         "difficulty": "easy",
         "notes": "Click delete account once logged in.",
+        "notes_cat": "Iniciar sessió i fer clic a 'Delete Account'.",
         "domains": [
             "angel.co"
         ]
@@ -369,6 +385,7 @@
         "url": "https://join.ankiapp.com",
         "difficulty": "easy",
         "notes": "Log in to your account and click 'Delete Account'. Confirm by entering your password and click 'OK'. You cannot delete your account via web.ankiapp.com - please visit join.ankiapp.com instead.",
+        "notes_cat": "Iniciar sessió i fer clic a 'Delete Account'. Confirmar l'acció introduïnt la contrasenya i fent clicant 'OK'.",
         "domains": [
             "ankiapp.com"
         ]
@@ -379,6 +396,7 @@
         "url": "https://ankiweb.net/account/remove",
         "difficulty": "easy",
         "notes": "Confirm by entering your e-mail address and click 'Remove'.",
+        "notes_cat": "Confirmar l'acció introduïnt la contrasenya i fent clic a 'Remove'.",
         "domains": [
             "ankiweb.net"
         ]
@@ -389,6 +407,7 @@
         "url": "https://support.any.do/account-and-profile/",
         "difficulty": "medium",
         "notes": "You can only delete your account via the mobile app: install the app, log in, click Profile, click Delete Account.",
+        "notes_cat": "Només es pot eliminar el compte a través de l'aplicació mòbil: instalar la app, iniciar sessió, anar al perfil, i fer clic a 'Delete Account'.",
         "domains": [
             "any.do"
         ]
@@ -419,6 +438,7 @@
         "difficulty": "hard",
         "notes": "Remove all applications and services from your account, then request deletion by emailing customer services.",
         "notes_fr": "Enlevez toutes les applications et tous les services de votre compte, puis demandez la suppression de votre compte en envoyant un e-mail au service clients.",
+        "notes_cat": "Enviar un correu al servei d'atenció al client per tal d'eliminar totes les aplicacions i serveis del teu compte.",
         "email": "support@appfog.com",
         "domains": [
             "appfog.com"
@@ -430,6 +450,7 @@
         "url": "https://appshopper.com/about#contact-form",
         "difficulty": "hard",
         "notes": "To request account deletion, you must email: support@appshopper.com",
+        "notes_cat": "Demanar que s'elimini el compte a través del correu: support@appshopper.com",
         "email": "support@appshopper.com",
         "domains": [
             "appshopper.com"
@@ -441,6 +462,7 @@
         "url": "https://www.arcor.de/register/admin_kuendigen_pw.jsp",
         "difficulty": "easy",
         "notes": "Only viable if you have online accounts only.",
+        "notes_cat": "Només disponible si només es tenen comptes en línia.",
         "domains": [
             "arcor.de"
         ]
@@ -460,6 +482,7 @@
         "url": "https://theartistunion.com/dashboard/account",
         "difficulty": "easy",
         "notes": "Login to your account first. Click 'Delete Account' and confirm by clicking 'Ok'.",
+        "notes_cat": "Iniciar sessió, fer clic a 'Delete Account' i confirmar l'acció seleccionant 'Ok'.",
         "domains": [
             "theartistunion.com"
         ]
@@ -479,6 +502,7 @@
         "url": "https://asgardia.space",
         "difficulty": "impossible",
         "notes": "You have to send an e-mail and request for account deletion, which might take up to 10 days. By some accounts, the site administrators will not follow up on deletion requests, leading to no follow-up.",
+        "notes_cat": "Enviar un correu demanant que s'elimini el vostre compte. El procés pot tardar fins a 10 dies. En alguns comptes, els administradors de la plataforma poden desestimar la petició.",
         "email": "support@asgardia.space",
         "domains": [
             "asgardia.space"
@@ -542,6 +566,7 @@
         "url": "https://audiomack.com/dashboard#delete-account",
         "difficulty": "easy",
         "notes": "Click the delete account link in the bottom left corner",
+        "notes_cat": "Fer clic a l'enllaç 'Delete Account' que es troba a la part inferior esquerra de la pàgina.",
         "domains": [
             "audiomack.com"
         ]
@@ -599,6 +624,7 @@
         "url": "https://my.avast.com",
         "difficulty": "easy",
         "notes": "Login, go to \"Profile Details\" tab, and simply click on the \"Delete Account\" button.",
+        "notes_cat": "Iniciar sessió, anar a \"Profile Details\" i fer clic a \"Delete Account\".",
         "domains": [
             "assembla.com"
         ]
@@ -631,6 +657,7 @@
         "url": "https://home.babbel.com/user-profile/settings",
         "difficulty": "medium",
         "notes": "Scroll down and press delete. A confirmation box will show up. You will have to go click the link in the email they send to you to permanently delete your Babbel account.",
+        "notes_cat": "Fer clic al botó 'Delete'. Un cop aparegui l'avís de confirmació, anar al correu i obrir l'enllaç rebut per eliminar permanentment el vostre compte de Babbel.",
         "domains": [
             "babbel.com"
         ]
