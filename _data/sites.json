@@ -180,7 +180,7 @@
         "url": "https://www.airbnb.com/help/article/240/how-do-i-cancel-my-account",
         "difficulty": "hard",
         "notes": "Your account can be deleted <a href=\"https://www.airbnb.com/help/contact_us\">by contacting support</a>, although some pertinent information may be retained as legally required.",
-        "notes_cat": "El compte pot ser eliminat <a href=\"https://www.airbnb.com/help/contact_us\">contactant amb el suport tècnic</a>, no obstant això, la plataforma pot retenir informació per requeriment legal."
+        "notes_cat": "El compte pot ser eliminat <a href=\"https://www.airbnb.com/help/contact_us\">contactant amb el suport tècnic</a>, no obstant això, la plataforma pot retenir informació per requeriment legal.",
         "domains": [
             "airbnb.ae",
             "airbnb.at",
