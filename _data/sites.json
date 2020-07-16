@@ -840,7 +840,7 @@
         "url": "https://it.bidoo.com",
         "difficulty": "hard",
         "notes": "Click the assistance link on the website and fill in the contact form. A representative will mail you to confirm the account deletion.",
-        "notes_cat": "Entar a l'enllaç d'assistència de la pàgina web i omplir el formulari de contacte. S'enviarà un correu per confirmar l'operació.
+        "notes_cat": "Entar a l'enllaç d'assistència de la pàgina web i omplir el formulari de contacte. S'enviarà un correu per confirmar l'operació.",
         "domains": [
             "bidoo.com"
         ]
