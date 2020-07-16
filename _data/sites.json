@@ -672,7 +672,7 @@
         "url": "https://secure.backblaze.com/account_settings.htm",
         "difficulty": "medium",
         "notes": "Click on delete account and follow the required steps. You must have no outstanding B2 balance and will have to delete most files and settings in your account first.",
-        "notes_cat": "Fer clic a 'delete account' i seguir els passos indicats. S'hauran d'eliminar la majoria d'arxius del compte abans de realitzar l'operació.
+        "notes_cat": "Fer clic a 'delete account' i seguir els passos indicats. S'hauran d'eliminar la majoria d'arxius del compte abans de realitzar l'operació.",
         "domains": [
             "backblaze.com"
         ]
