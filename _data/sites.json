@@ -527,7 +527,7 @@
         "notes_it": "Richiedi la cancellazione al servizio clienti",
         "notes_de": "Beantrage die Löschung beim Support.",
         "notes_pt_br": "Peça para que seja deletada pela assistência ao cliente.",
-        "notes_cat": "Demani l'eliminació del compte al servei d'atenció al client.",
+        "notes_cat": "Demanar l'eliminació del compte al servei d'atenció al client.",
         "notes_es": "Pide la eliminación de tu cuenta al servicio de atención al cliente.",
         "domains": [
             "asos.de"
@@ -576,8 +576,9 @@
         "name": "Authy",
         "url": "https://authy.com/account/delete/",
         "difficulty": "medium",
-        "notes": "Fill out the form, verify your phone number and e-mail. Data will be permanently deleted after 30 days.",
+        "notes": "Fill out the form, verify your phone number and e-mail. Data will be permanently deleted after 30 days."        
         "notes_ru": "Заполните форму, подтвердите свой номер телефона и e-mail. Данные будут удалены через 30 дней.",
+        "notes_cat": "Omplir el formulari i verificar el número de telèfon i correu electrònic. Les dades s'eliminaran permanentment al cap de 30 dies.",
         "domains": [
             "authy.com"
         ]
@@ -588,6 +589,7 @@
         "url": "https://accounts.autodesk.com/Profile/Security",
         "difficulty": "medium",
         "notes": "Go to the bottom of the page, click the button 'Account Deletion' and confirm on 'Delete your Autodesk account and data'. Enter your password, then enter a 6-digit code that will be sent to your email and click 'Delete Account'. You can recover the account within 30 days of deleting it. The deletion is completed in 90 days.",
+        "notes_cat": "Anar al peu de la pàgina, fer clic al botó 'Account Deletion' i confirmar 'Delete your Autodesk account and data'. Introduir la contrasenya, després escriure el codi de 6 xifres que s'enviarà al correu i fer clic a 'Delete Account'. Es pot recuperar el compte dins d'un termini de 30 dies des de l'eliminació del compte. L'eliminació completa de les dades es farà efectiva al cap de 30 dies.",
         "domains": [
             "autodesk.com"
         ]
@@ -636,6 +638,7 @@
         "difficulty": "easy",
         "notes": "Follow the instructions provided in the article. If you prefer, you can also request deletion of your account via email.",
         "notes_pt_br": "Siga as instruções fornecidas no artigo. Caso prefira, também poderá solicitar a exclusão da sua conta via e-mail.",
+        "notes_cat": "Seguir les instruccions mostrades a l'article de l'enllaç. Si es prefereix, també es pot sol·licitar que s'elimini el compte via correu electrònic.",
         "email": "support@avira.com",
         "domains": [
             "avira.com"
@@ -647,6 +650,7 @@
         "url": "https://awardwallet.com/user/delete",
         "difficulty": "easy",
         "notes": "You must enter your password and supply a reason for deleting your account",
+        "notes_cat": "Introduir la contrasenya a l'enllaç i agregar la raó per la qual es vol eliminar el compte.",
         "domains": [
             "awardwallet.com"
         ]
@@ -668,6 +672,7 @@
         "url": "https://secure.backblaze.com/account_settings.htm",
         "difficulty": "medium",
         "notes": "Click on delete account and follow the required steps. You must have no outstanding B2 balance and will have to delete most files and settings in your account first.",
+        "notes_cat": "Fer clic a 'delete account' i seguir els passos indicats. S'hauran d'eliminar la majoria d'arxius del compte abans de realitzar l'operació.
         "domains": [
             "backblaze.com"
         ]
@@ -679,6 +684,7 @@
         "difficulty": "easy",
         "notes": "On the top right corner click 'Settings', then on the left hand side click 'Delete'. Type your information, to delete Badoo, enter your password and in the other box, explain why you want to leave. Click on the 'Confirm' button, you will receive a message page confirming your rquest was successfully completed.",
         "notes_ru": "Зайдите в 'Настройки', затем слева нажмите 'Удалить', укажите причину удаления и подтвердите выбор нажав кнопку 'Подтвердить'.",
+        "notes_cat": "A la cantonada superior a la dreta fer clic a 'Settings', aleshores fer clic a 'Delete'. Escriure la informació pertinent, introduir la contrasenya i, al següent requadre, explicar el motiu pel qual es vol abandonar la plataforma. Fer clic a 'Confirm'. A continuació es rebrà un correu indicant que l'operació s'ha completat.",
         "domains": [
             "badoo.com"
         ]
