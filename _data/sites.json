@@ -710,6 +710,7 @@
         "url": "https://bandcamp.com/settings?pane=fan",
         "difficulty": "easy",
         "notes": "To terminate an artist account, you must click on the 'Artists' pane, click on the desired artist's profile, and click the termination link there.",
+        "notes_cat": "Per finalitzar un compte d'artista es necessari anar al panell 'Artists', fer clic al perfil d'artista que es desitja eliminar i seguir l'enllaç de finalització.", 
         "domains": [
             "bandcamp.com"
         ]
@@ -720,6 +721,7 @@
         "url": "http://www.barnesandnoble.com/customerservice/contactus",
         "difficulty": "impossible",
         "notes": "It is not possible to delete your Barnes and Noble account. The best you can do is delete any personal information that you have stored on their website.",
+        "notes_cat": "No és possible eliminar comptes de Barnes and Noble. El millor que es pot fer és eliminar manualment tota la informació personal que s'hagi afegit al perfil.",  
         "domains": [
             "barnesandnoble.com"
         ]
@@ -733,6 +735,7 @@
         "notes_fr": "Les données seront supprimés définitivement dans 30 jours.",
         "notes_pl": "Twoje dane zostaną całkowicie usunięte po upływie 30 dni.",
         "notes_pt_br": "Os dados serão permanente excluídos após 30 dias.",
+        "notes_cat": "Després de seguir l'enllaç, les dades s'eliminaran permanentment al cap de 30 dies.",
         "domains": [
             "basecamp.com",
             "basecamp-help.com"
@@ -744,6 +747,7 @@
         "url": "https://usebasin.com/users/edit",
         "difficulty": "easy",
         "notes": "Scroll down to the bottom of the page and click the 'Completely obliterate all my data' button",
+        "notes_cat": "Descendir fins al peu de la pàgina i fer clic a 'Completely obliterate all my data'.",
         "domains": [
             "usebasin.com"
         ]
@@ -758,6 +762,7 @@
         "notes_fr": "Le traitement de votre demande peut nécessiter jusqu'à 30 jours pour être achevée. Il pourra vous être demandé une pièce d'identité officielle avec une photo d'identité.",
         "notes_it": "Potrebbero volerci 30 giorni per elaborare la richiesta. Ti potrebbe essere richiesto di allegare anche un documento di identità rilasciato dal governo e provvisto di fotografia.",
         "notes_es": "La petición pueden tardar hasta 30 días en completarse. Se te podrá requerir una imagen de un documento de identidad emitido por el gobierno.",
+        "notes_cat": "La petició pot tardar fins a 30 dies abans de completar-se. Tanmateix, pot requerir una imatge del document d'identitat per confirmar l'operació.
         "domains": [
             "eu.battle.net",
             "battle.net",
@@ -779,6 +784,7 @@
         "url": "https://beam.pro/legal/privacy",
         "difficulty": "hard",
         "notes": "Remove all personal information from your account, then request deletion by emailing customer services.",
+        "notes_cat": "Eliminar tota la informació personal del perfil del compte. Aleshores sol·licitar que s'elimini el compte a través del correu d'atenció al client.",
         "email": "support@beam.pro",
         "domains": [
             "beam.pro"
@@ -790,6 +796,7 @@
         "url": "http://au.beamly.com/account/delete",
         "difficulty": "easy",
         "notes": "To delete your account, login and then next to your name select the drop down and go to 'Settings' once there scroll to the bottom of the page and select 'delete your account'.",
+        "notes_cat": "Iniciar sessió i anar a 'Settings'. Un cop allà descendir fins a trobar l'opció 'delete your account'.",
         "domains": [
             "beamly.com"
         ]
@@ -800,6 +807,7 @@
         "url": "https://help.behance.net/hc/en-us/articles/204484854-How-do-I-delete-cancel-my-account-",
         "difficulty": "easy",
         "notes": "To delete your account, please click on your avatar in the top right navigation, visit Account Settings, and hit the 'Delete Account' tab. There, you'll have the option to delete.",
+        "notes_cat": "Fer clic a la imatge de perfil situada a dalt a la dreta, visitar 'Account Settings', i clicar l'apartat 'Delete Account'. En aquest apartat es troba l'opció d'eliminar el compte.",
         "domains": [
             "behance.net"
         ]
@@ -810,6 +818,7 @@
         "url": "https://help.bet365.com/contact",
         "difficulty": "hard",
         "notes": "To delete the account, contact customer service. It is recommended to do it via chat and ask to close the account, as there is no link to do so.",
+        "notes_cat": "Contactar amb el servei d'atenció al client i sol·licitar que s'elimini el compte.",
         "domains": [
             "https://www.bet365.com"
         ]
@@ -820,6 +829,7 @@
         "url": "https://www.betterment.com",
         "difficulty": "impossible",
         "notes": "Account can only be closed, but not trule deleted.",
+        "notes_cat": "El compte només es pot tancar, però no eliminar completament.",
         "domains": [
             "betterment.com"
         ]
@@ -830,6 +840,7 @@
         "url": "https://it.bidoo.com",
         "difficulty": "hard",
         "notes": "Click the assistance link on the website and fill in the contact form. A representative will mail you to confirm the account deletion.",
+        "notes_cat": "Entar a l'enllaç d'assistència de la pàgina web i omplir el formulari de contacte. S'enviarà un correu per confirmar l'operació.
         "domains": [
             "bidoo.com"
         ]
@@ -856,6 +867,7 @@
         "url": "https://central.bitdefender.com/account",
         "difficulty": "medium",
         "notes": "To delete your account, login, go to the 'My Account' page, click the 'Delete Account' link, click the 'Delete Account' button, and click the 'Send Email' button. A confirmation email will be sent to the account email. Click the 'Delete Account' link in the email sent to you, log into your account, and click the 'Delete Account' button.",
+        "notes_cat": "Iniciar sessió i anar a la pàgina 'My Account', obrir l'enllaç 'Delete Account', fer clic a 'Delete Account', i clicar 'Send Email'. S'enviarà un correu de confirmació al teu correu electrònic. Fer clic a l'enllaç 'Delete Account' que es troba al correu que s'ha enviat, iniciar sessió al teu compte i fer clic a 'Delete Account'.",
         "domains": [
             "central.bitdefender.com"
         ]
@@ -868,6 +880,7 @@
         "notes": "Go to \" Profile > Delete Account\" and select why you are deleting your account. Your account will be deleted but all your shortlinks will remain.",
         "notes_pl": "Wybierz, dlaczego chcesz usunąć konto. Twoje konto zostanie usunięte, ale wszystkie twoje skrócone linki zostaną na serwerze.",
         "notes_pt_br": "Vá para \" Profile > Delete Account\" e selecione uma razão pela qual você está excluindo sua conta. Sua conta será excluída, mais os seus links encurtados permanecerão ativos.",
+        "notes_cat": "Anar a 'Profile > Delete Account' i seleccionar el motiu pel qual es vol eliminar el compte. El compte s'eliminarà però tots els enllaços escurçats es mantindran.",
         "domains": [
             "bitly.com",
             "bit.ly"
@@ -879,6 +892,7 @@
         "url": "https://www.blinkist.com/nc/settings/account/",
         "difficulty": "easy",
         "notes": "Click 'I want to delete my account' at the bottom of the page.",
+        "notes_cat": "Fer clic a l'enllaç 'I want to delete my account' situat al peu de la pàgina.
         "domains": [
             "blinkist.com"
         ]
@@ -913,6 +927,7 @@
         "url": "https://secure.bluebird.com/manage/settings/ProfileSettings",
         "difficulty": "medium",
         "notes": "Remove all funds from your account. Then go to settings in your account, click on the profile tab, and click close account.",
+        "notes_cat": "Retirar tots els fons. Posteriorment, anar a la configuració del compte, fer clic al perfil i a continuació a 'Close account'.",
         "domains": [
             "bluebird.com"
         ]
@@ -923,6 +938,7 @@
         "url": "https://support.bluejeans.com/s/contactsupport",
         "difficulty": "hard",
         "notes": "Contact support via the contact form and request deletion of your account.",
+        "notes_cat": "Sol·licitar l'eliminació del compte omplint el formulari de contacte.",
         "domains": [
             "bluejeans.com"
         ]
@@ -935,6 +951,7 @@
         "notes": "Log-in and use the link provided to request account deletion.",
         "notes_pt_br": "Faça login e use o link fornecido para requerir que a conta seja excluída.",
         "notes_pl": "Zaloguj się i użyj podanego odnośnika, aby usunąc swoje konto.",
+        "notes_cat": "Iniciar sessió, obrir l'enllaç proporcionat i sol·licitar l'eliminació del compte.",
         "domains": [
             "boardgamegeek.com"
         ]
@@ -945,6 +962,7 @@
         "url": "https://www.bodbot.com/Account_Settings.html",
         "difficulty": "easy",
         "notes": "Click the 'Delete My Account' link.",
+        "notes_cat": "Fer clic a l'enllaç 'Delete My Account'.",
         "domains": [
             "bodbot.com"
         ]
@@ -971,6 +989,7 @@
         "url": "https://www.bookbub.com/contact/new",
         "difficulty": "hard",
         "notes": "Fill out the contact form to request deletion.",
+        "notes_cat": "Omplir el formulari de contacte per sol·licitar l'eliminació del compte.",
         "domains": [
             "bookbub.com"
         ]
@@ -993,6 +1012,7 @@
         "notes_fr": "Il faut demander la suppression de votre compte par le support du site, après vous vous connectez.",
         "notes_de": "Nach dem einloggen muss der Kundenservice zur Löschung kontaktiert werden.",
         "notes_pl": "Poproś o usunięcie swoich danych za pomocą formularza kontaktowego.",
+        "notes_cat": "Sol·licitar l'eliminació del compte a través del contacte que es facilita un cop iniciada la sessió.
         "domains": [
             "booklooker.de"
         ]
@@ -1033,6 +1053,7 @@
         "difficulty": "hard",
         "notes": "Contact support and ask for your account to be deleted.",
         "notes_de": "Kontaktiere den Support und fordere eine Löschung des Accounts an.",
+        "notes_cat": "Contactar amb el servei de suport sol·licitant que s'elimini el compte.",
         "email": "feedback@getbring.com",
         "domains": [
             "getbring.com"
@@ -1044,6 +1065,7 @@
         "url": "https://naprepin.custhelp.com/app/answers/detail/a_id/770/~/cancelling-your-executive-club-membership",
         "difficulty": "hard",
         "notes": "Must send a request in writing. See this page for contact details <a href=\"https://www.britishairways.com/travel/contact-executive-club/execclub/_gf/en_us\">https://www.britishairways.com/travel/contact-executive-club/execclub/_gf/en_us</a>",
+        "notes_cat": "Contactar amb la plataforma sol·licitant l'eliminació del compte.",
         "domains": [
             "britishairways.com"
         ]
@@ -1163,6 +1185,7 @@
         "notes": "'There is no way to close or shut down an account.'",
         "notes_pl": "Nie ma możliwości zamknięcia konta.",
         "notes_fr": "Il n'y a pas de façon de supprimer les comptes.",
+        "notes_cat": "No hi ha cap manera de tancar o eliminar un compte.",
         "domains": [
             "callofduty.com"
         ]
@@ -1183,6 +1206,7 @@
         "url": "https://www.canva.com/account",
         "difficulty": "impossible",
         "notes": "There is only an option to Deactivate account. To do this, you must login to your account first, then go to account settings and click 'Deactivate Account'",
+        "notes_cat": "Només hi ha opció de desactivar el compte. Per fer-ho, cal iniciar sessió, anar a la configuració del compte i fer clic a 'Desactivar Compte'.",
         "domains": [
             "canva.com"
         ]
@@ -1685,6 +1709,7 @@
         "url": "https://www.crunchyroll.com/nuke",
         "difficulty": "easy",
         "notes": "You can deactivate the account after filling out a form containing the reason for doing so (radio button list) and typing your password",
+        "notes_cat": "Omplir el formulari especificant el motiu pel qual es vol eliminar el compte i escriure la contrasenya del compte per confirmar l'acció.",
         "domains": [
             "crunchyroll.com"
         ]
@@ -1757,6 +1782,7 @@
         "difficulty": "easy",
         "notes": "Type your password and confirm your action by clicking \"Delete account\".",
         "notes_pt_br": "Digite sua senha e clique em \"Delete account\" para confirmar a exclusão da sua conta.",
+        "notes_cat": "Escriu la contrasenya i confirma l'acció fent clic a 'Delete account'.",
         "domains": [
             "dailymotion.com"
         ]
