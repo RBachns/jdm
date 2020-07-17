@@ -1352,7 +1352,7 @@
         "url": "https://chess.com/settings/close-account",
         "difficulty": "impossible",
         "notes": "Your account will not be deleted but disabled.",
-        "notes_cat": "El compte no es pot eliminar, però es desactivarà.".
+        "notes_cat": "El compte no es pot eliminar, però es desactivarà.",
         "domains": [
             "chess.com"
         ]
