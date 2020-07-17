@@ -1023,6 +1023,7 @@
         "url": "https://botlist.space/server",
         "difficulty": "hard",
         "notes": "You need to request deletion of your account data by contacting a 'Website Staff' via their Discord server.",
+        "notes_cat": "Cal sol·licitar l'eliminació del compte contactant amb el 'Website Staff' a través del servidor de Discord.",
         "domains": [
             "botlist.space"
         ]
@@ -1076,6 +1077,7 @@
         "url": "https://www.browserstack.com/contact",
         "difficulty": "hard",
         "notes": "Must send contact form requesting account deletion, using the \"Other\" category.",
+        "notes_cat": "Sol·licitar l'eliminació a través del formulari de contacte. Utilitzar la categoria 'Other' a l'hora d'enviar el missatge.",
         "domains": [
             "browserstack.com"
         ]
@@ -1117,6 +1119,7 @@
         "difficulty": "impossible",
         "notes": "Support staff refuses to delete accounts due to 'accounting purposes'",
         "notes_fr": "Le personnel refuse de supprimer les comptes.",
+        "notes_cat": "Els responsables refusen l'eliminació dels comptes.",
         "domains": [
             "burst.net"
         ]
@@ -1127,6 +1130,7 @@
         "url": "https://www.buycott.com",
         "difficulty": "hard",
         "notes": "To cancel your account you have to send them an email",
+        "notes_cat": "Enviar correu sol·licitant l'eliminació del compte.",
         "email": "info@buycott.com",
         "domains": [
             "buycott.com"
@@ -1138,6 +1142,7 @@
         "url": "https://server.tebex.io",
         "difficulty": "hard",
         "notes": "Buycraft was moved to Tebex, contact customer support to request account deletion",
+        "notes_cat": "Buycraft ara forma part de Tebex. Contactar amb el servei d'atenció per sol·licitar que es cancel·li el compte.",
         "domains": [
             "tebex.io"
         ]
@@ -1196,6 +1201,7 @@
         "url": "https://camelcamelcamel.com/close_account",
         "difficulty": "easy",
         "notes": "Login to your account first. Confirm by ticking both boxes, 'I want to close my Camel account.' and 'I’m really sure!', and click 'Close Account'.",
+        "notes_cat": "Iniciar sessió. Activar les dues caselles de confirmació, 'I want to close my Camel account.' i 'I'm really sure!'. Finalment fer clic a 'Close Account.",
         "domains": [
             "camelcamelcamel.com"
         ]
@@ -1217,6 +1223,7 @@
         "url": "https://www.car2go.com/US/en/contact",
         "difficulty": "hard",
         "notes": "You need to call customer support and even after that can take weeks before confirmation of deletion",
+        "notes_cat": "És necessari trucar al servei d'atenció. Poden passar setmanes abans no responguin amb la confirmació de la clausura del compte.",
         "domains": [
             "car2go.com",
             "drive-now.com",
@@ -1230,6 +1237,7 @@
         "difficulty": "easy",
         "notes": "Must remove uploaded files first",
         "notes_fr": "Il faut supprimer les fichiers téléchargés avant de supprimer votre compte.",
+        "notes_cat": "Primer de tot és necessari eliminar tots els fitxers pujats a la plataforma.",
         "domains": [
             "careerbuilder.com"
         ]
@@ -1265,6 +1273,7 @@
         "difficulty": "hard",
         "notes": "Contact the customer support via email and request the deletion of your account. In order for them to identify your account, include your full name and Tax ID in your request.",
         "notes_pt_br": "Envie um e-mail para o suporte ao cliente e solicite que sua conta seja excluída. Para que eles possam identificar sua conta, inclua seu nome completo e CPF na solicitação.",
+        "notes_cat": "Contactar amb el servei d'atenció al client a través del correu electrònic sol·licitant l'eliminació del compte. Per tal que puguin identificar el compte, és preferible incloure el nom complet i el \"Tax ID\" a la sol·licitud.",
         "email": "contato@celcoin.com.br",
         "domains": [
             "celcoin.com.br",
@@ -1281,6 +1290,7 @@
         "notes": "You can't delete your account without contacting them. You must set the subject to 'Delete Account'",
         "notes_de": "Sie können Ihren Account nicht löschen ohne den Support zu kontaktieren. Sie müssen den Betreff auf 'Delete Account' setzen.",
         "notes_pl": "Nie ma możliwości usunięcia konta bez kontaktu z obsługą. W temacie wpisz wiadomości 'Delete Account'",
+        "notes_cat": "Contactar amb la plataforma sol·licitant l'eliminació del compte. A l'assumpte del correu especificar 'Delete Account'.",
         "domains": [
             "cex.io"
         ]
@@ -1299,6 +1309,7 @@
         "name": "Channel 4",
         "url": "https://4id.channel4.com",
         "notes": "Login, go to account page and click remove.",
+        "notes-cat": "Iniciar sessió, anar a l'apartat de compte i fer clic a 'remove'.",
         "difficulty": "easy",
         "domains": [
             "channel4.com"
@@ -1341,6 +1352,7 @@
         "url": "https://chess.com/settings/close-account",
         "difficulty": "impossible",
         "notes": "Your account will not be deleted but disabled.",
+        "notes_cat": "El compte no es pot eliminar, però es desactivarà.".
         "domains": [
             "chess.com"
         ]
@@ -1351,6 +1363,7 @@
         "url": "https://classpass.com/settings/membership",
         "difficulty": "impossible",
         "notes": "You can deactivate your account from settings but not entirely delete the account itself.",
+        "notes_cat": "Es pot desactivar el compte des de la configuració, però no es pot eliminar completament.",
         "domains": [
             "classpass.com"
         ]
@@ -1362,6 +1375,7 @@
         "difficulty": "hard",
         "notes": "Email customer services to request deletion",
         "notes_fr": "Envoyez un e-mail au service clients pour demander la suppression de votre compte.",
+        "notes_cat": "Sol·licitar l'eliminació del compte a través del correu de contacte.",
         "email": "info@cleverreach.de",
         "domains": [
             "cleverreach.com"
@@ -1375,6 +1389,7 @@
         "notes": "Login to your account, then click 'delete account' on the page.",
         "notes_fr": "Connectez-vous et cliquez sur « delete account ».",
         "notes_de": "Logge dich in deinen Account ein und klicke auf der Seite auf 'Account löschen'.",
+        "notes_cat": "Iniciar sessió i fer clic a 'delete account' a la pàgina de l'enllaç.",
         "domains": [
             "clickandbuy.com"
         ]
@@ -1386,6 +1401,7 @@
         "email": "support@getcloudapp.com",
         "difficulty": "hard",
         "notes": "The site claims that you must call their support line (888-988-5036, ext 1), but they deactivated my account over email.",
+        "notes_cat": "Es pot eliminar el compte contactant per telèfon (888-988-5036, ext 1), o a través del correu de contacte.",
         "domains": [
             "cl.ly"
         ]
@@ -1396,6 +1412,7 @@
         "url": "https://support.cloudflare.com/requests/new",
         "difficulty": "hard",
         "notes": "Submit a support ticket using the \"Account\" category, and request account deletion in the message body. You must have no domains or credit cards attached to your account prior to requesting deletion.",
+        "notes_cat": "Contactar a través del correu escollint la categoria \"Account\", i sol·licitar que s'elimini el compte al cos del missatge. És necessari desvincular prèviament les targetes de crèdit i els dominis vinculats amb el compte.",
         "domains": [
             "cloudflare.com"
         ]
@@ -1452,6 +1469,7 @@
         "notes": "Simply click the \"I understand, delete my account.\" button.",
         "notes_es": "Simplemente haz clic en el botón \"Entiendo, borrar mi cuenta\".",
         "notes_fr": "Il faut simplement confirmer que vous voulez supprimmer votre compte.",
+        "notes_cat": "Fer clic a \"I understand, delete my account.\".",
         "domains": [
             "codecademy.com"
         ]
@@ -1462,6 +1480,7 @@
         "url": "https://codenvy.io/dashboard/#/account",
         "difficulty": "easy",
         "notes": "Deletion option can be found in the \"Security\" tab",
+        "notes_cat": "L'opció d'eliminar el compte es troba al panell de 'Security'.",
         "domains": [
             "codenvy.com",
             "codenvy.io"
@@ -1527,6 +1546,7 @@
         "difficulty": "medium",
         "notes": "Sign in then visit <a href=\"https://www.coinbase.com/close_account\">https://www.coinbase.com/close_account</a> and scroll to the bottom to find a button to close you account. In order to be deleted, your account can not have pending transactions.",
         "notes_pt_br": "Faça login e acesse <a href=\"https://www.coinbase.com/close_account\">https://www.coinbase.com/close_account</a>. Role até o final da página para encontrar o botão para fechar sua conta. Para que possa ser excluída, sua conta não deve haver nenhum tipo de transação pendente.",
+        "notes_cat": "Iniciar sessió i visitar <a href=\"https://www.coinbase.com/close_account\">https://www.coinbase.com/close_account</a>, i descendir fins que aparegui el botó per eliminar el compte. Per tal que s'elimini el compte, no poden haver-hi transaccions obertes.",
         "domains": [
             "coinbase.com"
         ]
@@ -1553,6 +1573,7 @@
         "url": "https://www.coinpayments.net/help-support",
         "difficulty": "impossible",
         "notes": "According to their own policy, accounts can never be deleted.",
+        "notes_cat": "Segons la seva política, els comptes no es poden eliminar.",
         "domains": [
             "coinpayments.net"
         ]
@@ -1563,6 +1584,7 @@
         "url": "https://cointree.formstack.com/forms/account_closure_request",
         "difficulty": "medium",
         "notes": "Complete the form and wait for their support to delete the account.",
+        "notes_cat": "Completar el formulari i esperar a que l'equip elimini el compte.",
         "domains": [
             "cointree.com"
         ]
@@ -1606,6 +1628,7 @@
         "difficulty": "impossible",
         "notes": "It is only possible to permanently disable the automatic subscription fee. Doing so will also set your stars back to 0.",
         "notes_fr": "Il est seulement possible de désactiver le frais de renouvellement automatique. Lorsque le renouvellement sera désactivé vos étoiles seront remis à 0.",
+        "notes_cat": "Només és possible desactivar la quota de subscripció. En fer-ho, el comptador d'estrelles tornarà a 0.",
         "domains": [
             "chefcookit.com"
         ]
@@ -1616,6 +1639,7 @@
         "url": "https://support.couchsurfing.org/hc/en-us/articles/200640880-How-can-I-Hide-or-Delete-my-profile",
         "difficulty": "impossible",
         "notes": "Cannot be deleted fully, reactivation is always available. Fill out the request form.",
+        "notes_cat": "No es pot eliminar completament. La reactivació del compte sempre està disponible. Completar el formulari de l'enllaç.",
         "domains": [
             "couchsurfing.org",
             "couchsurfing.com"
@@ -1628,6 +1652,7 @@
         "difficulty": "easy",
         "notes": "Delete acccount button is at the bottom of the account settings page.",
         "notes_es": "El botón para borrar la cuenta está al final de la página de configuración de cuenta.",
+        "notes_cat": "El botó per eliminar el compte es troba al final de la pàgina de configuració del compte.",
         "domains": [
             "coursera.org"
         ]
