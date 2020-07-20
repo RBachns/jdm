@@ -576,7 +576,7 @@
         "name": "Authy",
         "url": "https://authy.com/account/delete/",
         "difficulty": "medium",
-        "notes": "Fill out the form, verify your phone number and e-mail. Data will be permanently deleted after 30 days."        
+        "notes": "Fill out the form, verify your phone number and e-mail. Data will be permanently deleted after 30 days.",      
         "notes_ru": "Заполните форму, подтвердите свой номер телефона и e-mail. Данные будут удалены через 30 дней.",
         "notes_cat": "Omplir el formulari i verificar el número de telèfon i correu electrònic. Les dades s'eliminaran permanentment al cap de 30 dies.",
         "domains": [
@@ -1517,7 +1517,7 @@
         "url": "https://profile.codersrank.io/login",
         "difficulty": "hard",
         "notes": "Click the Feedback button on the right and fill in the form asking for deletion. They'll ask for you to reply from the signed up e-mail and then delete the account.",
-        "notes_cat": "Clicar el botó de 'Feedback' i omplir el formulari sol·licitant que s'elimini el compte. S'enviarà un correu electrònic per confirmar l'operació.
+        "notes_cat": "Clicar el botó de 'Feedback' i omplir el formulari sol·licitant que s'elimini el compte. S'enviarà un correu electrònic per confirmar l'operació.",
         "domains": [
             "codersrank.io"
         ]
