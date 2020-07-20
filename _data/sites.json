@@ -1248,6 +1248,7 @@
         "url": "https://www.cda.pl/kontakt",
         "difficulty": "hard",
         "notes": "You need to contact with support",
+        "notes_cat": "Contactar amb el servei d'atenció.",
         "domains": [
             "cda.pl"
         ]
@@ -1258,6 +1259,7 @@
         "url": "https://cdon.eu/#support-hub",
         "difficulty": "hard",
         "notes": "Contact customer service via the support e-mail form and request deletion of your account under General Questions.",
+        "notes_cat": "Contactar amb el servei d'atenció al client a través del formulari de contacte i sol·licitar l'eliminació del compte sota l'assumpte 'General Questions".", 
         "domains": [
             "cdon.se",
             "cdon.dk",
@@ -1332,6 +1334,7 @@
         "url": "https://api.checklist.com/account/account",
         "difficulty": "easy",
         "notes": "Log in and go to your account. Scroll to 'Close your account' and click on 'Close Account'. Confirm by clicking on 'Yes' in the pop-up window. The account will be deleted immediately.",
+        "notes_cat": "Iniciar sessió al compte. Descendir fins a 'Close your account' i fer clic a 'Close Account'. Confirmar fent clic a 'Yes'. El compte s'eliminarà immediatament.",
         "domains": [
             "checklist.com"
         ]
@@ -1342,6 +1345,7 @@
         "url": "https://www.chegg.com/contactus",
         "difficulty": "hard",
         "notes": "Call customer service or contact them via chat and ask them to delete your account, or request assistance via their Twitter account, <a href=\"https://twitter.com/chegghelp\">@CheggHelp</a>. There is also no option to delete your payment methods, you need to contact customer support as well.",
+        "notes_cat": "Trucar al servei d'atenció al client o contactar amb ells a través del xat sol·licitant l'eliminació del compte, o contactar amb la plataforma a través de Twitter, <a href=\"https://twitter.com/chegghelp\">@CheggHelp</a>. 
         "domains": [
             "chegg.com"
         ]
@@ -1432,6 +1436,7 @@
         "url": "https://cbsi.secure.force.com/CBSi/submitcase?template=template_cnet&referer=cnet.com&cfs=SFS_1",
         "difficulty": "hard",
         "notes": "You have to ask the support to get your account deleted. Choose the category CNET Registration",
+        "notes_cat": "Cal contactar amb la plataforma sol·licitant l'eliminació del compte. Escull la categoria 'CNET Registration'.",
         "domains": [
             "cnet.com"
         ]
@@ -1445,7 +1450,7 @@
         "notes_fr": "Vous ne pouvez pas supprimer votre compte. Vous pouvez seulement donner un faux numéro.",
         "notes_it": "Non puoi eliminarti. Puoi solamente cambiare il tuo numero di telefono con uno inventato",
         "notes_pt_br": "Você não pode deletar sua conta. Você pode mudar o número de telefone para um número qualquer.",
-        "notes_cat": "No podrà eliminar el compte. Només pots canviar-te el número de telèfon.",
+        "notes_cat": "No és possible eliminar el compte. Només es pot canviar el número de telèfon.",
         "notes_es": "No podrá eliminar la cuenta. Solo puedes cambiar tu número de teléfono a un falso.",
         "domains": [
             "coderedweb.com"
@@ -1457,6 +1462,7 @@
         "url": "https://codeanywhere.com/dashboard",
         "difficulty": "easy",
         "notes": "Login then click Delete Account button and enter your password.",
+        "notes_cat": "Iniciar sessió, fer clic a 'Delete Account' i introduir la contasenya.
         "domains": [
             "codeanywhere.com"
         ]
@@ -1469,7 +1475,7 @@
         "notes": "Simply click the \"I understand, delete my account.\" button.",
         "notes_es": "Simplemente haz clic en el botón \"Entiendo, borrar mi cuenta\".",
         "notes_fr": "Il faut simplement confirmer que vous voulez supprimmer votre compte.",
-        "notes_cat": "Fer clic a \"I understand, delete my account.\".",
+        "notes_cat": "Fer clic a \"I understand, delete my account.\" per tal d'eliminar el compte de Codecademy.",
         "domains": [
             "codecademy.com"
         ]
@@ -1511,6 +1517,7 @@
         "url": "https://profile.codersrank.io/login",
         "difficulty": "hard",
         "notes": "Click the Feedback button on the right and fill in the form asking for deletion. They'll ask for you to reply from the signed up e-mail and then delete the account.",
+        "notes_cat": "Clicar el botó de 'Feedback' i omplir el formulari sol·licitant que s'elimini el compte. S'enviarà un correu electrònic per confirmar l'operació.
         "domains": [
             "codersrank.io"
         ]
@@ -1535,6 +1542,7 @@
         "url": "https://www.codewars.com/users/edit",
         "difficulty": "easy",
         "notes": "Go to your 'Account Settings' and scroll to the bottom to find the 'Delete Account' section",
+        "notes_cat": "Anar a 'Account Settings' i descendir fins a trobar la secció 'Delete Account'.",
         "domains": [
             "codewars.com"
         ]
@@ -1558,6 +1566,7 @@
         "difficulty": "hard",
         "notes": "Contact the customer support via email and request the deletion of your account. In order for them to identify your account, make the request through the same email address that you have used to create your CoinBR/Stratum account.",
         "notes_pt_br": "Entre em contato com o suporte via e-mail e solicite que sua conta seja excluída. Para que eles possam identificar sua conta, faça a requisição a partir da mesma conta de e-mail que você usou para criar sua conta CoinBR/Stratum.",
+        "notes_cat": "Contactar amb la plataforma a través del correu i sol·licitar l'eliminació del compte.
         "email": "support@stratum.hk",
         "email_subject": "[ Permanently Account Deletion Request ]",
         "email_body": "I have no further interest in using the services provided by Stratum, so I would like my account to be permanently deleted.",
@@ -1606,6 +1615,7 @@
         "difficulty": "medium",
         "notes": "Your messages will remain on the forums.",
         "notes_fr": "Vos messages seront guardés.",
+        "notes_cat": "Seguir les instruccions de l'enllaç. Els vostres missatges es mantindran al fòrum.",
         "domains": [
             "commentcamarche.net"
         ]
@@ -1639,7 +1649,7 @@
         "url": "https://support.couchsurfing.org/hc/en-us/articles/200640880-How-can-I-Hide-or-Delete-my-profile",
         "difficulty": "impossible",
         "notes": "Cannot be deleted fully, reactivation is always available. Fill out the request form.",
-        "notes_cat": "No es pot eliminar completament. La reactivació del compte sempre està disponible. Completar el formulari de l'enllaç.",
+        "notes_cat": "No es pot eliminar completament. La reactivació del compte sempre està disponible. Completar el formulari de l'enllaç per desactivar el compte.",
         "domains": [
             "couchsurfing.org",
             "couchsurfing.com"
@@ -1693,7 +1703,7 @@
         "url": "https://www.creditkarma.com/myprofile/security/deactivate",
         "difficulty": "easy",
         "notes": "Membership can be canceled either online or by mail. Once you cancel, you will no longer have access to your Credit Karma account history and you won’t be able to create a new account for six months.",
-        "domains": [
+        "notes_cat": "L'afiliació es pot cancel·lar en línia i per correu. Un cop cancel·lada, no es podrà tornar a accedir a l'historial de Credit Karma i no es podrà crear un nou compte fins passats sis mesos.",        "domains": [
             "creditkarma.com"
         ]
     },
@@ -1714,6 +1724,7 @@
         "url": "https://docs.crowdcast.io/account/how-do-i-cancel-my-account",
         "difficulty": "impossible",
         "notes": "You can pause your account for $10/mo or cancel your account.",
+        "notes_cat": "Es pot desactivar el compte per 10$/mes o cancelar el compte.",
         "domains": [
             "crowdcast.io"
         ]
@@ -1724,6 +1735,7 @@
         "url": "https://crowdin.com/settings#account",
         "difficulty": "easy",
         "notes": "Login to your account. Click on 'Settings', then 'Remove Account' (at the bottom). Choose one of the options why you want to delete your account and click 'Remove Account'.",
+        "notes_cat": "Iniciar sessió, anar a 'Settings'i buscar el botó 'Remove Account'. Especificar el motiu pel qual es vol eliminar el compte i fer clic a 'Remove Account'.",
         "domains": [
             "crowdin.com"
         ]
@@ -1775,6 +1787,7 @@
         "url": "https://cryptpad.fr/settings/",
         "difficulty": "easy",
         "notes": "Scroll down to the red 'Delete your account' button and then select 'OK (enter)'",
+        "notes_cat": "Descendir fins a trobar el botó 'Delete your account' i a continuació fer clic a 'OK'.", 
         "domains": [
             "cryptpad.fr"
         ]
@@ -1785,6 +1798,7 @@
         "url": "https://support.imaginecurve.com/hc/en-gb/articles/214179685-How-do-I-cancel-my-account",
         "difficulty": "medium",
         "notes": "They cannot delete your account immediately as they are obliged by the Money Laundering Regulations 2017 to keep your data for 5 years after you stop using Curve.",
+        "notes_cat": "No és possible eliminar el compte de forma immediata, la plataforma està obligada per la 'Money Laundering Regulations 2017' a guardar les teves dades fins 5 anys després d'eliminar el compte.", 
         "domains": [
             "curve.app"
         ]
@@ -1796,6 +1810,7 @@
         "difficulty": "easy",
         "notes": "Go to \"Delete Your Account > Delete Account\".",
         "notes_pt_br": "Vá para \"Delete Your Account > Delete Account\".",
+        "notes_cat": "Anar a \"Delete Your Account > Delete Account\".",
         "domains": [
             "cybrary.com"
         ]
@@ -1807,7 +1822,7 @@
         "difficulty": "easy",
         "notes": "Type your password and confirm your action by clicking \"Delete account\".",
         "notes_pt_br": "Digite sua senha e clique em \"Delete account\" para confirmar a exclusão da sua conta.",
-        "notes_cat": "Escriu la contrasenya i confirma l'acció fent clic a 'Delete account'.",
+        "notes_cat": "Segueix l'enllaç, escriu la contrasenya i confirma l'acció fent clic a 'Delete account'.",
         "domains": [
             "dailymotion.com"
         ]
@@ -1828,6 +1843,7 @@
         "difficulty": "easy",
         "notes": "You have to enter your mailadress and have to choose a 'why are you leaving' answer'. To verify this step you'll become a mail with a security code to fill into the form. After that your account is deleted.",
         "notes_de": "Nach Angabe der E-Mail-Adresse und der Auswahl eines Grunds der Löschung, erhält man per Mail einen Sicherheitscode. Dieser wird im Löschformular eingetragen und abgeschickt. Danach wird der Account unwiederbringlich gelöscht.",
+        "notes_cat": "Seguir l'enllaç, introduir la vostra adreça electrònica i escollir una resposta a la pregunta 'why are you leaving' (per què deixes la plataforma). Per verificar l'operació cal introduir el codi de seguretat que s'enviarà al correu electrònic. Un cop seguits els passos, el compte és eliminat.",
         "domains": [
             "dashlane.com"
         ]
@@ -1838,6 +1854,7 @@
         "url": "https://www.datacamp.com/profile/account_settings/advanced",
         "difficulty": "easy",
         "notes": "Click the red 'delete account' button at the bottom.",
+        "notes_cat": "Fer clic al botó vermell 'delete account' que es troba al final de la pàgina.",
         "domains": [
             "datacamp.com"
         ]
@@ -1860,7 +1877,7 @@
         "notes_fr": "Vous pouvez arrêter votre usage du service à tout moment sans nous informer. Nous pouvons, cependant, guarder et continuer d'utiliser tous le contenu que vous avez téléchargé par le service.",
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
         "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
-        "notes_cat": "Vosté pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrem i continuarem utilitzant qualsevol contingut que hagi enviat al nostre servei.",
+        "notes_cat": "La plataforma especifica: \"Vosté pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrem i continuarem utilitzant qualsevol contingut que hagi enviat al nostre servei.\"",
         "notes_es": "«Usted puede parar de usar el servicio en cualquier momento. Nosotros, mantendremos y continuaremos utilizando cualquier contenido que haya enviado a nuestro servicio.»",
         "domains": [
             "kinja.com"
@@ -1873,6 +1890,7 @@
         "difficulty": "medium",
         "notes": "If you signed up via Google/Facebook setup a Deezer password at <a href=\"https://www.deezer.com/password/reset\">https://www.deezer.com/password/reset</a> and click the confirmation link you'll get via mail. If you have your Deezer password, open your account settings. Click 'Delete my Account' at the bottom of the page. Enter your Deezer password and confirm the deletion in the confirmation mail.",
         "notes_de": "Wenn du dich mit Google/Facebook registriert hast, fordere unter <a href=\"https://www.deezer.com/password/reset\">https://www.deezer.com/password/reset</a> ein Deezer-Passwort an und bestätige einen Link, den du per Mail erhältst. Wenn du ein Deezer-Passwort hast, öffne deine Konto-Einstellungen und klicke unten auf 'Mein Konto löschen'. Gib dort dein Deezer-Passwort ein und bestätige das Löschen in der Bestätigungsmail.",
+        "notes_cat": "Si s'ha accedit a Deezer a través de Google/Facebook, cal establir una contrasenya única per Deezer a <a href=\"https://www.deezer.com/password/reset\">https://www.deezer.com/password/reset</a> i fer clic a l'enllaç de confirmació que s'enviarà al correu. Si ja es disposa de contrasenya a Deezer, obrir la configuració del compte. Fer clic a 'Delete my Account' al final de la pàgina. Introduir la contrasenya i confirmar l'eliminació del compte amb el correu de confirmació que s'enviarà.",
         "domains": [
             "deezer.com"
         ]
@@ -1883,6 +1901,7 @@
         "url" : "https://www.deliverycode.com",
         "difficulty": "medium",
         "notes": "Go to My Account and select Edit Profile and then Delete Account. A confirmation e-mail will be sent to the address on file with a link you must visit.",
+        "notes_cat": "Anar a 'My account', seleccionar 'Edit Profile' i a continuació 'Delete Account'. S'enviarà al correu un enllaç de confirmació per acabar l'operació.",
         "domains": [
             "deliverycode.com"
         ]
@@ -1894,6 +1913,7 @@
         "difficulty": "hard",
         "notes": "You can not delete your account on the site. You must use the linked form. Then select SkyMiles → Update SkyMiles Account and request them to close your account.",
         "notes_fr": "Vous ne pouvez pas supprimer votre compte sur le site. Vous devez utiliser le formulaire lié. Ensuite, sélectionnez SkyMiles → Mise à jour compte SkyMiles et de leur demander de fermer votre compte.",
+        "notes_cat": "És necessàri omplir el formulari de l'enllaç, aleshores seleccionar 'SkyMiles → Update SkyMiles Account' i sol·licitar que es tanqui el compte.",
         "domains": [
             "delta.com"
         ]
@@ -1916,6 +1936,7 @@
         "difficulty": "hard",
         "email": "support@desk.com",
         "notes": "Required to send e-mail, but it is quickly responded.",
+        "notes_cat": "Contactar a través del correu electònic sol·licitant l'eliminació del compte.",
         "domains": [
             "desk.com"
         ]
@@ -1995,6 +2016,7 @@
         "url": "https://www.dice.com/dashboard/settings",
         "difficulty": "easy",
         "notes": "Go to your 'Settings'. Scroll to the bottom to find the 'Delete Account' section.",
+        "notes_cat": "Seguir l'enllaç, descendir al final de la pàgina fins a trobar la secció 'Delete Account'.",
         "domains": [
             "dice.com"
         ]
@@ -2016,6 +2038,7 @@
         "difficulty": "easy",
         "notes": "Go to \"Settings > Delete my account\".",
         "notes_pt_br": "Vá para \"Settings > Delete my account\".",
+        "notes_cat": "Anar a \"Settings > Delete my account\".",
         "domains": [
             "digg.com",
             "digg.zendesk.com"
@@ -2176,6 +2199,7 @@
         "name": "DocuSign",
         "url": "https://support.docusign.com/en/articles/How-do-I-cancel-or-downgrade-my-account#steps",
         "notes": "Follow the instructions at the linked support page; directions vary depending on account type and privileges.",
+        "notes_cat": "Seguir les instruccions de l'enllaç. Els passos poden variar en funció del tipus de compte i privilegis.",
         "difficulty": "hard",
         "domains": [
             "docusign.com"
@@ -2188,6 +2212,7 @@
         "difficulty": "easy",
         "notes": "In your Doodle account select 'Delete Doodle account' at the bottom of the page.",
         "notes_de": "Wähle 'Doodle Konto löschen' unten in den Konto-Einstellungen.",
+        "notes_cat": "Seguir l'enllaç i seleccionar 'Delete Doodle account' al final de la pàgina.",
         "domains": [
             "doodle.com"
         ]
@@ -2210,6 +2235,7 @@
             "downapp.com"
         ],
         "notes": "You can delete it in the settings page",
+        "notes_cat": "Es pot eliminar el compte a l'apartat de configuració ('Settings').",
         "email": "feedback@downapp.com"
     },
 
@@ -2227,6 +2253,7 @@
         "url": "https://www.dreamstime.com/account/edit-profile",
         "difficulty": "easy",
         "notes": "Click on the \"Delete account\" link towards the bottom of the page and then confirm your action in the opened pop-up.",
+        "notes_cat": "Fer clic a \"Delete account\" que es troba cap al final de la pàgina. Aleshores confirmar l'acció a la finestra que apareix.", 
         "domains": [
             "dreamstime.com"
         ]
