@@ -1259,7 +1259,7 @@
         "url": "https://cdon.eu/#support-hub",
         "difficulty": "hard",
         "notes": "Contact customer service via the support e-mail form and request deletion of your account under General Questions.",
-        "notes_cat": "Contactar amb el servei d'atenció al client a través del formulari de contacte i sol·licitar l'eliminació del compte sota l'assumpte 'General Questions".", 
+        "notes_cat": "Contactar amb el servei d'atenció al client a través del formulari de contacte i sol·licitar l'eliminació del compte sota l'assumpte 'General Questions'.", 
         "domains": [
             "cdon.se",
             "cdon.dk",
@@ -1345,7 +1345,7 @@
         "url": "https://www.chegg.com/contactus",
         "difficulty": "hard",
         "notes": "Call customer service or contact them via chat and ask them to delete your account, or request assistance via their Twitter account, <a href=\"https://twitter.com/chegghelp\">@CheggHelp</a>. There is also no option to delete your payment methods, you need to contact customer support as well.",
-        "notes_cat": "Trucar al servei d'atenció al client o contactar amb ells a través del xat sol·licitant l'eliminació del compte, o contactar amb la plataforma a través de Twitter, <a href=\"https://twitter.com/chegghelp\">@CheggHelp</a>. 
+        "notes_cat": "Trucar al servei d'atenció al client o contactar amb ells a través del xat sol·licitant l'eliminació del compte, o contactar amb la plataforma a través de Twitter, <a href=\"https://twitter.com/chegghelp\">@CheggHelp</a>.",
         "domains": [
             "chegg.com"
         ]
@@ -1462,7 +1462,7 @@
         "url": "https://codeanywhere.com/dashboard",
         "difficulty": "easy",
         "notes": "Login then click Delete Account button and enter your password.",
-        "notes_cat": "Iniciar sessió, fer clic a 'Delete Account' i introduir la contasenya.
+        "notes_cat": "Iniciar sessió, fer clic a 'Delete Account' i introduir la contasenya.",
         "domains": [
             "codeanywhere.com"
         ]
@@ -1566,7 +1566,7 @@
         "difficulty": "hard",
         "notes": "Contact the customer support via email and request the deletion of your account. In order for them to identify your account, make the request through the same email address that you have used to create your CoinBR/Stratum account.",
         "notes_pt_br": "Entre em contato com o suporte via e-mail e solicite que sua conta seja excluída. Para que eles possam identificar sua conta, faça a requisição a partir da mesma conta de e-mail que você usou para criar sua conta CoinBR/Stratum.",
-        "notes_cat": "Contactar amb la plataforma a través del correu i sol·licitar l'eliminació del compte.
+        "notes_cat": "Contactar amb la plataforma a través del correu i sol·licitar l'eliminació del compte.",
         "email": "support@stratum.hk",
         "email_subject": "[ Permanently Account Deletion Request ]",
         "email_body": "I have no further interest in using the services provided by Stratum, so I would like my account to be permanently deleted.",
