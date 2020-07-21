@@ -2051,6 +2051,7 @@
         "difficulty": "easy",
         "notes": "Click in the checkbox \"Purge all of my account data\" and confirm your action by clicking \"Deactivate Account\".",
         "notes_pt_br": "Marque a opção \"Purge all of my account data\" e clique em \"Deactivate Account\" para confirmar a exclusão da sua conta.",
+        "notes_cat": "Marcar l'opció \"Purge all of my account data\" i confirmar l'acció fent clic a \"Desactivate Account\".",
         "domains": [
             "digitalocean.com"
         ]
@@ -2062,6 +2063,7 @@
         "difficulty": "easy",
         "notes": "Scroll down the page, click at \"I'd like to delete my account.\", type your password and confirm your action by clicking \"Confirm Delete\".",
         "notes_pt_br": "Role a página para baixo, clique em \"I'd like to delete my account.\", digite sua senha e clique em \"Confirm Delete\" para confirmar a exclusão da sua conta.",
+        "notes_cat": "Descendir al final de la pàgina, fer clic a \"I'd like to delete my account.\", escriure la contrasenya i confirmar l'acció fent clic a \"Confirm Delete\".",
         "domains": [
             "diigo.com"
         ]
@@ -2081,6 +2083,7 @@
         "url": "https://support.discordapp.com/hc/en-us/articles/212500837-How-do-I-permanently-delete-my-account-",
         "difficulty": "easy",
         "notes": "If you're a server owner, you'll need to either <a href=\"https://support.discordapp.com/hc/en-us/articles/213595197-How-do-I-delete-a-server-\">delete the server</a>, or <a href=\"https://support.discordapp.com/hc/en-us/articles/216273938-How-do-I-transfer-server-ownership-\">transfer ownership</a> for account deletion to succeed.",
+        "notes_cat": "Seguir l'enllaç. En cas de ser propietari/a d'un servidor, és necessari o bé <a href=\"https://support.discordapp.com/hc/en-us/articles/213595197-How-do-I-delete-a-server-\">eliminar el servidor</a>, o <a href=\"https://support.discordapp.com/hc/en-us/articles/216273938-How-do-I-transfer-server-ownership-\">transferir la propietat</a> per eliminar del tot el compte.",
         "domains": [
             "discordapp.com"
         ]
@@ -2189,6 +2192,7 @@
         "name": "Dock.io",
         "url": "https://app.dock.io/settings",
         "notes": "Log in, go to settings and click 'Delete my account'. Confirm by clicking 'Yes, delete my account'.",
+        "notes_cat": "Iniciar sessió, anar a 'Settings' i fer clic a 'Delete my Account'. Confirmar l'acció fent clic a 'Yes, delete my account'.",
         "difficulty": "easy",
         "domains": [
             "dock.io"
@@ -2264,6 +2268,7 @@
         "url": "https://www.dreamwidth.org/accountstatus",
         "difficulty": "medium",
         "notes": "Changing your account status to Deleted will immediately hide your profile and journal from other users, but your account will not be removed for 30 days.",
+        "notes_cat": "Seguir l'enllaç i canviar l'estat del compte a 'Deleted'. L'acció amagarà immediatament el perfil als altres usuaris, però el compte no s'eliminarà completament fins al cap de 30 dies.",
         "domains": [
             "dreamwidth.org"
         ]
@@ -2292,6 +2297,7 @@
         "url": "https://dronebase.com/contact",
         "difficulty": "hard",
         "notes": "Contact support to find out if you can delete your account.",
+        "notes_cat": "Contactar amb la plataforma sol·licitant l'eliminació el compte.",
         "domains": [
             "dronebase.com"
         ]
@@ -2312,6 +2318,7 @@
         "difficulty": "easy",
         "notes": "Click at \"Delete Account\", type your email address and confirm your action by clicking \"Delete\".",
         "notes_pt_br": "Clique em \"Delete Account\", digite seu e-mail e clique em \"Delete\" para confirmar a exclusão da sua conta.",
+        "notes_cat": "Fer clic a \"Delete Account\", escriure l'adreça electrònica i confirmar l'acció fent clic a \"Delete\".",
         "domains": [
             "droplr.com",
             "d.pr"
@@ -2334,6 +2341,7 @@
         "difficulty": "easy",
         "notes": "Click at \"Delete now\" to confirm the deletion of your account.<br><br>You can also request the deletion of your account via <a href=\"mailto:support@dubsmash.com\">email</a>.",
         "notes_pt_br": "Clique em \"Delete now\" para confirmar a exclusão da sua conta.<br><br>Você também pode requisitar a exclusão da sua conta via <a href=\"mailto:support@dubsmash.com\">e-mail</a>.",
+        "notes_cat": "Fer clic a \"Delete now\" per confirmar l'eliminació del compte.<br><br>També es pot sol·licitar l'eliminació del compte a través del <a href=\"mailto:support@dubsmash.com\">correu</a>.",
         "domains": [
             "dubsmash.com"
         ]
@@ -2411,6 +2419,7 @@
         "url": "https://www.easyjet.com/en/policy/privacy-promise/request-data-form",
         "difficulty": "hard",
         "notes": "You have to fill out the Data protection request form on their website, providing your identification.",
+        "notes_cat": "Completar el formulari de protecció de dades seguint l'enllaç. S'haurà de proporcionar una identificació.",
         "domains": [
             "easyjet.com"
         ]
@@ -2487,6 +2496,7 @@
         "url": "https://edpuzzle.com",
         "difficulty": "hard",
         "notes": "click on the contrat popup on the bottom of the screen and fill out the form, an admin will email asking for your username and will then delete it",
+        "notes_cat": "Fer clic a l'enllaç de 'Contact' situat al final de la pàgina i sol·licitar l'eliminació del compte.",
         "domains": [
             "edpuzzle.com"
         ]
@@ -2498,6 +2508,7 @@
         "difficulty": "easy",
         "notes": "Click on \"I want to delete My Account\".",
         "notes_pt_br": "Clique em \"I want to delete My Account\".",
+        "notes_cat": "Fer clic a \"I want to delete My Account\".",
         "domains": [
             "edreams.com",
             "edreams.co.uk",
@@ -2515,7 +2526,7 @@
         "notes_de": "Es gibt keine Notwendigkeit deinen Account zu löschen. Ein alter, unbenutzter edX Account ohne fertiggestellte Kurse wird automatisch gelöscht.",
         "notes_it": "Non è necessario cancellare il tuo account. Un vecchio, inusato edX account scomparirà da solo",
         "notes_pt_br": "Não há porque deletar sua conta. Uma conta antiga, e não usada sem cursos completos irá desaparecer.",
-        "notes_cat": "No té perqué esborrar el seu compte. Un compte antic sens ús ni cursos completats serà eliminat.",
+        "notes_cat": "No hi ha necessitat d'esborrar el compte. Un compte antic sense ús ni cursos completats s'eliminarà automàticament.",
         "notes_es": "«No hay necesidad de borrar la cuenta. Una cuenta antigua no usada y sin cursos completos será eliminado.»",
         "domains": [
             "edx.org"
@@ -2551,6 +2562,7 @@
         "difficulty": "hard",
         "notes": "Complete the form, they will send you an email where you must respond indicating the identity document.",
         "notes_es": "Complete el formulario, le enviarán un correo electrónico donde deberá responder indicando el documento de identidad.",
+        "notes_cat": "Completar el formulari, a continuació es rebrà un correu on s'haurà de confirmar l'operació amb el document d'identitat.",
         "domains": [
             "elpais.com.uy"
         ]
@@ -2590,6 +2602,7 @@
         "url": "https://epicgames.helpshift.com/a/epic-accounts/?s=epic-account-support&f=how-can-i-disable-my-epic-account&l=en&contact=1",
         "difficulty": "hard",
         "notes": "Select 'Delete Epic Games Account' from the dropdown in the contact page and submit a request. Support will respond to you in about 5 days asking for confirmation",
+        "notes_cat": "Seleccionar 'Delete Epic Games Account' en el menú desplegable 'contact' i enviar una sol·licitud. La plataforma respondrà en un període de 5 dies aproximats per tal de confirmar l'operació.",
         "domains": [
             "epicgames.com"
         ]
@@ -2600,6 +2613,7 @@
         "url": "https://eproject.me",
         "difficulty": "hard",
         "notes": "Send an e-mail asking for the deletion.",
+        "notes_cat": "Sol·licitar l'eliminació del compte per correu.",
         "email": "services@eproject.me",
         "domains": [
             "eproject.me"
@@ -2621,6 +2635,7 @@
         "url": "https://www.espn.com",
         "difficulty": "easy",
         "notes": "At the bottom of the account settings page there is a Remove Account button",
+        "notes_cat": "Al final de la pàgina 'Account Settings', es troba el botó 'Remove Account' per eliminar el compte.",
         "domains": [
             "espn.com"
         ]
@@ -2631,6 +2646,7 @@
         "url": "https://www.etoro.com/settings/account",
         "difficulty": "easy",
         "notes": "At the bottom of the page, click the button to close your account, select the reason for your deletion and continue to confirm it.",
+        "notes_cat": "Seguir l'enllaç, al final de la pàgina fer clic al botó 'close your account', seleccionar el motiu pel qual es vol eliminar el compte i confirmar l'acció.",
         "domains": [
             "etoro.com"
         ]
@@ -2643,6 +2659,7 @@
         "notes": "You have to contact Etsy. As they've stated, \"when a member closes an account, it becomes inaccessible and will remain deactivated, unless the member requests it reopened. Account information remains securely on file with them, and Etsy has a detailed Privacy Policy that explains how we use members' information. This policy includes a statement regarding data retention.\"",
         "notes_fr": "Vous devez contactez Etsy. Lorsqu'un membre ferme un compte, il devient inaccessible et reste désactivé, à moins que le membre demande sa réouverture. Les informations du compte restent conservées de manière sécuritsée, et Etsy a une politique de confidentialité détaillée expliquant comment ils utilisent les informations des membres. Cette politique inclut une déclaration concernant la conservation des données.",
         "notes_pt_br": "Tem de contactar o Etsy. Como eles afirmam, quando uma conta é fechada, fica inacessível e desactivada, a menos que o dono da conta a queira reabrir. A informação da conta é guardada pelo Etsy e regulada pela Política de Privacidade. A Política inclui informação sobre retenção de dados.",
+        "notes_cat": "Cal contactar amb Etsy per sol·licitant que s'elimini el compte. Tal com especifiquen, \" quan un membre tanca un compte, esdevé inaccessible i es mantindrà desactivat a no ser que es sol·liciti la reobertura del compte. La informació del compte es guarda de manera segura amb el compte, i Etsy té una Política de Privadesa on s'explica com utilitzem la informació dels membres. Aquesta política inclou una declaració sobre la retenció de dades.\"",
         "domains": [
             "etsy.com"
         ]
@@ -2662,6 +2679,7 @@
         "url": "https://support.eventful.com/entries/25351895-How-do-I-cancel-delete-my-account-",
         "difficulty": "hard",
         "notes": "Contact support and they will delete your account",
+        "notes_cat": "Contactar amb la plataforma sol·licitant que s'elimini el compte.",
         "domains": [
             "eventful.com"
         ]
@@ -2702,11 +2720,13 @@
         "difficulty": "hard",
         "notes": "Contact support via the live chat or the contact form and request the deletion of your account.",
         "notes_de": "Kontaktiere den Support über den Live Chat oder das Kontaktformular und fordere die Löschung deines Kontos.",
+        "notes_cat": "Contactar amb el servei d'atenció a través del xat en directe o a través del formulari de contacte per sol·licitar que s'elimini el compte.",
         "domains": [
             "expedia.com",
             "expedia.co.uk",
             "expedia.de",
-            "expedia.fr"
+            "expedia.fr",
+            "expedia.es"
         ]
     },
 
@@ -2745,6 +2765,7 @@
         "difficulty": "impossible",
         "notes": "If you logged in with your Facebook account, you can just delete that account. If you registered using your phone number, there's no way to delete your account",
         "notes_es": "Si iniciaste sesión con tu cuenta de Facebook, podés borrar esa cuenta. Si te registraste con tu número de celular, no hay forma de eliminar tu cuenta",
+        "notes_cat": "En cas d'haver-se registrat a través d'un compte de Facebook, aleshores elimina aquell compte. Si el registre s'ha realitzat a través del número de telèfon, no és possible eliminar el compte.",
         "domains": [
             "messenger.com"
         ]
@@ -2774,6 +2795,7 @@
         "url": "https://community.wikia.com/wiki/Special:CloseMyAccount",
         "difficulty": "medium",
         "notes": "Click on 'Close my account'. Disables the account but cannot delete user data completely. Retains user contributions and username is not released.",
+        "notes_cat": "Fer clic a 'Close my account'. Es desactiva el compte però les dades de l'usuari no s'eliminen completament, la plataforma conserva les contribucions de l'usuari i el nom d'usuari no s'allibera.",
         "domains": [
             "fandom.wikia.com"
         ]
@@ -2858,6 +2880,7 @@
         "url": "https://help.fitbit.com/articles/en_US/Help_article/1285/",
         "difficulty": "hard",
         "notes": "From the mobile app, tap the Account icon and select 'Manage Data' and then 'Delete Account'. Contact Customer Support (phone, chat, or Twitter) if you do not have access to the app.",
+        "notes_cat": "Des de l'aplicatiu mòbil, obrir l'icona d'\"Account\" i seleccionar \"Manage Data\", posteriorment fer clic a \"Delete Account\". Contactar amb el servei d'assistència a través de xat o Twitter si no es té accés a l'aplicació.",
         "domains": [
             "fitbit.com"
         ]
@@ -2906,6 +2929,7 @@
         "url": "https://www.flixster.com",
         "difficulty": "hard",
         "notes": "Email privacy@flixster-inc.com and ask to have your account deleted.",
+        "notes_cat": "Sol·licitar l'eliminació del compte a privacy@flixster-inc.com",
         "email": "privacy@flixster-inc.com",
         "domains": [
             "flixster.com"
@@ -2917,6 +2941,7 @@
         "url": "https://www.foap.com/pages/contact",
         "difficulty": "hard",
         "notes": "Account deletion requires contacting customer support.",
+        "notes_cat": "Contactar amb la plataforma sol·licitant l'eliminació del compte."
         "domains": [
             "foap.com"
         ]
@@ -2974,6 +2999,7 @@
         "difficulty": "impossible",
         "notes": "This website does not provide options that allow the user to delete their account.",
         "notes_pt_br": "Este website não disponibiliza opções que possibilitem ao usuário excluir sua conta.",
+        "notes_cat": "Aquest lloc web no proporciona opcions als usuaris per eliminar el compte.",
         "domains": [
             "freebitco.in"
         ]
@@ -3031,6 +3057,7 @@
         "url": "https://freesound.org/home/delete/",
         "difficulty": "medium",
         "notes": "You cannot delete your account yourself if you have sounds uploaded to your account. In their own words: \"Because you have sounds on freesound, deleting your user is not a trivial task. As such, we ask you to please <a href=\"https://freesound.org/contact/\">contact the administrators via the Contact Form</a>. They will help you with the deletion of your account....\". Alternatively - you can go through all your sounds, delete them one-by-one, and then delete your account.",
+        "notes_cat": "No es pot eliminar el compte si hi ha sons pujats des d'aquest compte. En les seves paraules: \"Com que vostè té sons pujats a freesound, eliminar el compte no és una tasca senzilla. És per aquest motiu que demanem que es posi en contacte amb els administradors a través del <a href=\"https://freesound.org/contact/\">formulari de contacte (Contact Form)</a>. Ells l'ajudaran amb l'eliminació del compte... \". Una altra opció és eliminar manualment tots els sons pujats a la plataforma i a continuació eliminar el compte.",
         "domains": [
             "freesound.org"
         ]
