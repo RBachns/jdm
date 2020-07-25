@@ -3078,6 +3078,7 @@
         "url": "https://fruux.com/account/login/",
         "difficulty": "easy",
         "notes": "You will need to go to Account setting and click delete account",
+        "notes_cat": "Iniciar sessió, anar a 'Account settings' i fer clic a 'delete account'.",
         "domains": [
             "fruux.com"
         ]
@@ -3222,6 +3223,7 @@
         "url": "http://support.groundspeak.com/index.php?pg=kb.page&id=102",
         "difficulty": "hard",
         "notes": "To permanently delete your account, you must contact them as the option in your account settings will not delete your geocaching logs.",
+        "notes_cat": "Per tal d'eliminar completament el compte, cal contactar amb la plataforma, ja que eliminar el compte a través de la configuració del compte no esborrarà el registre dels vostres geocaching.",
         "domains": [
             "geocaching.com",
             "groundspeak.com"
@@ -3290,6 +3292,7 @@
         "url": "https://github.com/settings/admin",
         "difficulty": "easy",
         "notes": "Click on 'Delete account' near the bottom of the page and follow the instructions. Some user content will continue to exist anonymously on the website.",
+        "notes_cat": "Fer clic a 'Delete account' al final de la pàgina i seguir les instruccions. Hi haurà continguts que seguiran existint al lloc web de forma anònima.",
         "domains": [
             "github.com"
         ]
@@ -3300,6 +3303,7 @@
         "url": "https://gitlab.com/profile/account",
         "difficulty": "easy",
         "notes": "Click on 'Delete account' near the bottom of the page. Some user content will continue to exist anonymously on the website.",
+        "notes_cat": "Fer clic a 'Delete account' al final de la pàgina i seguir les instruccions. Hi haurà continguts que seguiran existint al lloc web de forma anonima.",
         "domains": [
             "gitlab.com"
         ]
@@ -3364,6 +3368,7 @@
         "url": "https://myaccount.google.com/deleteservices",
         "difficulty": "medium",
         "notes": "Click the trash can next to gmail, enter your new email address, and confirm the verification email",
+        "notes_cat": "Seguir l'enllaç, fer clic a la icona de la paperera, introduir una nova adreça de correu i confirmar l'eliminació del compte a través del correu de confirmació que s'enviarà al correu especificat.",
         "domains": [
             "gmail.com",
             "mail.google.com"
@@ -3386,6 +3391,7 @@
         "url": "https://account.godaddy.com/preferences",
         "difficulty": "easy",
         "notes": "Navigate to account preferences, select to \"Close Account\" and confirm.",
+        "notes_cat": "Seleccionar 'Close Account' i confirmar l'acció.",
         "domains": [
             "godaddy.com"
         ]
@@ -3396,6 +3402,7 @@
         "url": "https://support.gog.com/hc/en-us/articles/212806525-How-can-I-delete-my-account-?product=gog",
         "difficulty": "hard",
         "notes": "Email privacy@gog.com and ask to have your account deleted.",
+        "notes_cat": "Enviar un correu a privacy@gog.com sol·licitant que s'elimini el compte.",
         "email": "privacy@gog.com",
         "domains": [
             "gog.com"
@@ -3407,6 +3414,7 @@
         "url": "https://custhelp.gogoinflight.com",
         "difficulty": "hard",
         "notes": "Email customercare@gogoair.com and ask to have your account deleted.",
+        "notes_cat": "Enviar un correu a customercare@gogoair.com sol·licitant que s'elimini el compte.",
         "email": "customercare@gogoair.com",
         "domains": [
             "gogoair.com"
@@ -3418,6 +3426,7 @@
         "url": "https://www.go-jek.com/contact/",
         "difficulty": "hard",
         "notes": "Email customer service to request deletion.",
+        "notes_cat": "Enviar un correu sol·licitant que s'elimini el compte.",
         "domains": [
             "go-jek.com"
         ]
@@ -3536,6 +3545,7 @@
         "difficulty": "hard",
         "notes": "Send an email to arun@grailed.com and request deletion.",
         "notes_fr": "Envoyez un e-mail à arun@grailed.com pour demander la suppression de votre compte.",
+        "notes_cat": "Enviar un correu a arun@grailed.com sol·licitant que s'elimini el compte.",
         "email": "arun@grailed.com",
         "domains": [
             "grailed.com"
@@ -3580,6 +3590,7 @@
         "url": "https://help.grindr.com/hc/en-us/requests/new?ticket_form_id=24054",
         "difficulty": "hard",
         "notes": "Submit an account deletion request via their web form, including all requested account details.",
+        "notes_cat": "Sol·licitar que s'elimini el compte a través del formulari de l'enllaç, inclosos els detalls que es volen eliminar.",
         "domains": [
             "grindr.com"
         ]
@@ -3602,6 +3613,7 @@
         "difficulty": "hard",
         "notes": "According to Groupon's privacy statement, you have to contact support directly and ask them to delete your account.",
         "notes_fr": "Selon le politique de confidentialité de Groupon, vous devez contacter le support du site directement pour demander la suppresion de votre compte.",
+        "notes_cat": "Enviar un correu a la plataforma sol·licitant que s'elimini el compte.",
         "domains": [
             "groupon.com"
         ]
@@ -3684,6 +3696,7 @@
         "notes_fr": "Connectez-vous sur le site correspondant et envoyez une demande pour supprimer votre compte.",
         "notes_it": "Accedi al rispettivo sito e invia una richiesta per eliminare il tuo account.",
         "notes_nl": "Log in op de betreffende site en dien een aanvraag in om uw account te verwijderen.",
+        "notes_cat": "Seguir l'enllaç, iniciar sessió i enviar una petició sol·licitant que s'elimini el compte.",
         "domains": [
             "habbo.com",
             "habbo.com.br",
@@ -3702,6 +3715,7 @@
         "url": "https://habitica.com/user/settings/site",
         "difficulty": "easy",
         "notes": "Log in to your account, click the User icon in the top-right corner, click Settings in the drop-down menu, and click the red Delete Account button at the bottom of the page.",
+        "notes_cat": "Iniciar sessió, fer clic a la icona d'usuari situada a l'extrem superior dret, fer clic a 'Settings' en el menú desplegable, i fer clic al botó vermell 'Delete Account' situat al final de la pàgina.",
         "domains": [
             "habitica.com"
         ]
